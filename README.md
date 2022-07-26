@@ -9,7 +9,7 @@ To build regression models and select the best model to predict the domestic gro
 
 ## Data
 
-The data was scraped from BoxOfficeMojo.com which includes features, such as run time, budget, and MPAA rating. The datasets are from 2010~2019 in North America and contain 1803 movies. After performing exploratory data analysis, the dataset contains 1078 movies.  
+The data was scraped from BoxOfficeMojo.com which includes features, such as run time, budget, and MPAA rating. The datasets are from 2010~2019 in North America and contain 1803 movies. After performing exploratory data analysis, the datasets contain 1078 movies.  
 
 ## Algorithms
 - Used BeautifulSoup to scrape movie website.
